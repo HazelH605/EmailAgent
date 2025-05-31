@@ -98,7 +98,7 @@
 
 2. **API 密钥**：
    - 项目使用 DeepSeek-R1 模型（硅流平台）
-   - 替换为自己在https://siliconflow.cn/上获取的API key
+   - 替换为自己在https://siliconflow.cn/ 上获取的API key
 
 3. **安全限制**：
    - 代码执行在沙盒环境中进行
